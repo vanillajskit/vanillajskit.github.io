@@ -1,4 +1,4 @@
-# Serverless Frontend Architecture
+# Serverless Micro Frontend Architecture
 
 A Journey for Beginning Serverless Micro-Frontend Architecture Powered by Vanilla Javascript ES6+
 
