@@ -1,2 +1,9 @@
-# vanillajskit.github.io
-A Pure Vanilla Javascript Kit
+# Serverless Frontend Architecture
+
+A Journey for Beginning Serverless Micro-Frontend Architecture Powered by Vanilla Javascript ES6+
+
+Keep clean with Easy Learning Curve
+
+Cheat Sheet and Library : 
+1. [JSCroot](https://jscroot.github.io/)
+2. [C-Craft](https://c-craftjs.github.io/)
