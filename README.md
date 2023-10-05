@@ -14,8 +14,8 @@ Guidelines :
    ```html
    <script src="https://cdn.jsdelivr.net/npm/ol@v8.1.0/dist/ol.js"></script>
    ```
-3. Use HTML tag instead.
-   Example using HTML5 event onclick. [HTML5 full list](https://www.tutorialspoint.com/html5/index.htm).
+3. Use [HTML 5](https://www.tutorialspoint.com/html5/index.htm) tag instead.
+   Example using HTML5 event onclick.
    ```html
    <button class="button is-link is-light" type="submit" id="button" onclick="PostSignUp()">Submit</button>
    ```
