@@ -10,10 +10,6 @@ Guidelines :
    ```html
    <script src="./app.js" type="module"></script>
    ```
-   or
-   ```html
-   <script src="https://cdn.jsdelivr.net/npm/ol@v8.1.0/dist/ol.js"></script>
-   ```
 3. Use [HTML 5](https://www.tutorialspoint.com/html5/index.htm) instead.
    Example using HTML5 event onclick.
    ```html
