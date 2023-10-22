@@ -2,6 +2,10 @@
 
 A Journey for Beginning Serverless Micro-Frontend Architecture Powered by Vanilla Javascript ES6+.
 
+Interesting Articles:
+1. [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/)
+2. [Framework Benchmark](https://krausest.github.io/js-framework-benchmark/current.html)
+
 ## Keep clean and clear with Easy Learning Curve
 Guidelines :
 1. Always Debug Using DevTools :
