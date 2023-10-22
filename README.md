@@ -19,6 +19,11 @@ Guidelines :
    ```html
    <button class="button is-link is-light" type="submit" id="button" onclick="PostSignUp()">Submit</button>
    ```
+4. Need NPM Package? Just use [skypack](https://www.skypack.dev/)
+   ```html
+   import confetti from 'https://cdn.skypack.dev/canvas-confetti';
+   confetti();
+   ```
 
 ## Cheat Sheet and Library
 
