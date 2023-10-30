@@ -14,12 +14,12 @@ Guidelines :
    ```html
    <script src="./app.js" type="module"></script>
    ```
-3. Use [HTML 5](https://www.tutorialspoint.com/html5/index.htm) instead to simplified your script.
+3. Use [HTML 5](https://www.tutorialspoint.com/html5/index.htm) instead to simplified your script rather than using addEventListener.
    Example using HTML5 event onclick, calling a function with name PostSignUp() in JS module.
    ```html
    <button class="button is-link is-light" type="submit" id="button" onclick="PostSignUp()">Submit</button>
    ```
-   Declare your function in js module, so HTML5 can call the PostSignUp function.
+   Declare your function using window syntax in the imported js module, so HTML5 can call the PostSignUp function.
    ```js
    import PostSignUp from "./postfunction.js";
    
