@@ -14,12 +14,18 @@ Guidelines :
    ```html
    <script src="./app.js" type="module"></script>
    ```
-3. Use [HTML 5](https://www.tutorialspoint.com/html5/index.htm) instead.
-   Example using HTML5 event onclick.
+3. Use [HTML 5](https://www.tutorialspoint.com/html5/index.htm) instead to simplified your script.
+   Example using HTML5 event onclick, calling a function with name PostSignUp() in JS module.
    ```html
    <button class="button is-link is-light" type="submit" id="button" onclick="PostSignUp()">Submit</button>
    ```
-4. Need NPM Package? Just use [skypack](https://www.skypack.dev/)
+   Declare your function in js module, so HTML5 can call the PostSignUp function.
+   ```js
+   import PostSignUp from "./postfunction.js";
+   
+   window.PostSignUp = PostSignUp;
+   ```
+5. Need NPM Package? Just use [skypack](https://www.skypack.dev/)
    ```html
    import confetti from 'https://cdn.skypack.dev/canvas-confetti';
    confetti();
